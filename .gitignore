@@ -1,0 +1,25 @@
+# === Datos (NUNCA subir datos reales de clientes) ===
+data/
+*.db
+*.sqlite
+*.xls
+*.xlsx
+*.csv
+
+# Config local con rutas propias
+db_config.txt
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db

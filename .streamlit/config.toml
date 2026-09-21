@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#A75D3B"
+backgroundColor = "#F4EDDE"
+secondaryBackgroundColor = "#EAE0CC"
+textColor = "#3D372E"
+font = "sans serif"
+
+[server]
+headless = true
+# Seguridad: la app SOLO escucha en el propio ordenador (localhost). Asi nadie
+# del WiFi/red local puede abrirla poniendo la IP del equipo en el navegador.
+address = "localhost"
+# No recopilar estadisticas de uso (privacidad).
+[browser]
+gatherUsageStats = false
