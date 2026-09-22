@@ -43,6 +43,14 @@ La app pide una contraseña opcional al entrar (por defecto no hay: pulsa
 - **Asistente** de consultas rápidas por mes (cálculos exactos, sin IA
   generativa).
 
+<img width="1600" height="668" alt="image" src="https://github.com/user-attachments/assets/141650b7-a5b7-46e9-914a-23ae265db102" />
+<img width="1600" height="664" alt="image" src="https://github.com/user-attachments/assets/bddcae70-0300-4f2a-9701-197868ec5b30" />
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/ef8d4421-f45a-4226-bea9-6077e1c62d02" />
+<img width="1358" height="840" alt="image" src="https://github.com/user-attachments/assets/154cd50a-abb7-4639-ad2a-1be4d633fa00" />
+<img width="1600" height="578" alt="image" src="https://github.com/user-attachments/assets/a8e45a61-45a0-491a-82ad-cbe300b1e54b" />
+<img width="1600" height="631" alt="image" src="https://github.com/user-attachments/assets/2ab9b5f1-5509-4add-b027-48a0e45c1f4f" />
+<img width="1600" height="660" alt="image" src="https://github.com/user-attachments/assets/76664978-9141-4dc1-bbaf-354774a912ce" />
+
 ---
 
 ## 🧠 Ciencia de datos (lo interesante para un portfolio)
